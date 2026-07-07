@@ -1,0 +1,2102 @@
+[
+  {
+    "customer_id": "C0012",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 689792,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0365",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3689160,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0057",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4437430,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0112",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4063012,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0492",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4178766,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0260",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 584350,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0383",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2891639,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0235",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2380011,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0422",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 956494,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0119",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4039736,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0180",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2239849,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0030",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 768384,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0124",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3717141,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0287",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1869549,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0493",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1730215,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0217",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1597770,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0083",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1270687,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0028",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2465049,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0193",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 947133,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0467",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3195343,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0286",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4289715,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0307",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2066462,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0063",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2244888,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0099",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 869218,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0017",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3135094,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0265",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1080667,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0127",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1381281,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0366",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2416327,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0108",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 496782,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0026",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1609002,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0260",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3566655,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0103",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1572596,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0202",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2799590,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0097",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 664194,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0195",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4080765,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0109",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 770740,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0314",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2469740,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0058",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2030390,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0365",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3057947,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0358",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2536323,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0006",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4043303,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0168",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2504706,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0493",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2551990,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0241",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3058345,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0179",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4750817,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0010",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1244178,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0015",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 667470,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0229",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1723601,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0253",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4526503,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0024",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4477221,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0076",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4281262,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0286",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3419076,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0323",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3226575,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0463",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3253936,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0208",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2649354,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0041",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2541310,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0398",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2035307,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0316",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2175661,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0198",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2831217,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0390",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3031202,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0354",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4281671,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0124",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 717555,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0124",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3098849,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0022",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1659540,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0096",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3187968,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0425",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1045750,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0383",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1125697,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0197",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 999769,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0014",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3119125,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0347",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3269127,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0025",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4882667,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0025",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1314354,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0453",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4904232,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0009",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 923640,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0096",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 394085,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0170",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3008550,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0427",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4544060,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0395",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3528173,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0218",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2318494,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0459",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1395010,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0037",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1031237,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0222",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1908780,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0138",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 722732,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0446",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 492833,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0202",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 566731,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0226",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4979522,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0044",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3015935,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0246",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3399756,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0224",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1387226,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0420",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3866496,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0368",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3625532,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0081",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2986846,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0175",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4510820,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0019",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 264475,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0427",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1943909,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0340",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4783148,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0340",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2072780,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0088",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2588006,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0242",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2135818,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0209",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3477314,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0215",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3767532,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0481",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2616516,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0497",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3686644,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0263",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1605906,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0468",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 502388,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0124",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3103408,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0026",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 455597,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0115",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3379669,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0278",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3489614,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0288",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4882179,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0072",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3350824,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0359",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2021737,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0308",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1508913,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0492",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3316482,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0003",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 643734,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0259",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4608085,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0089",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1292398,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0410",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 886996,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0416",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 802266,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0315",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3036697,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0131",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2990598,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0464",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4650583,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0201",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4193725,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0380",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1974269,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0240",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4404076,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0161",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4967243,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0311",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3562271,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0438",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 465878,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0210",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2039082,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0421",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3677613,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0140",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 527818,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0145",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1979139,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0474",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4537835,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0077",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1085473,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0399",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1827788,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0106",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3116379,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0491",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4186577,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0379",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4874690,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0146",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4515874,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0095",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 642117,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0350",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1568256,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0413",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4826340,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0302",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2939465,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0224",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1535632,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0433",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4112220,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0327",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3918073,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0034",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4276180,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0008",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3332150,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0017",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4080165,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0141",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1399051,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0083",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1298484,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0094",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2944329,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0337",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2813941,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0393",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 390833,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0251",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1645271,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0371",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2376028,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0436",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3369350,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0232",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4738537,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0014",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3900631,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0030",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2476718,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0383",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1835676,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0031",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4180696,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0038",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2715473,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0175",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2718818,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0443",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 983557,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0382",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3278773,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0353",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1051298,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0367",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2383147,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0119",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2607061,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0421",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3682752,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0344",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4857115,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0210",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1532540,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0487",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4067118,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0250",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4353203,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0457",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1402927,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0270",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1807037,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0388",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4109308,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0270",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 913404,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0312",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2570340,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0459",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3754327,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0184",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 731509,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0335",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2496309,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0366",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 501733,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0364",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3049263,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0243",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 554949,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0034",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2931991,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0113",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4668226,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0170",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3269686,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0044",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3406320,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0106",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2117235,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0096",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2988634,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0305",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3463213,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0328",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4576715,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0143",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2170371,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0310",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1124414,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0202",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4905155,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0381",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2202555,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0356",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 744841,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0039",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1620085,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0104",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 947695,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0081",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3223751,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0478",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1890787,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0370",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1121686,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0075",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3076858,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0152",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 215989,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0121",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3257579,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0322",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4805092,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0398",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2998786,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0045",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2775974,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0060",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3337890,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0393",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 749080,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0491",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3653420,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0262",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1939565,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0259",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3285135,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0285",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 979487,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0425",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 312996,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0055",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 713601,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0069",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4136804,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0247",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2242628,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0020",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1113911,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0430",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4526050,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0069",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 688364,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0068",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2861159,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0411",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2492504,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0267",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 658162,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0003",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 680456,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0378",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2688884,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0435",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4978658,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0355",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3876157,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0488",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4511509,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0235",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3579921,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0143",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4020120,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0481",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4706832,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0304",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2532086,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0092",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3052780,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0380",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3661877,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0291",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3953955,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0315",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 204489,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0113",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4068115,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0213",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 966716,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0052",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4937540,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0096",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2499327,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0066",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4961696,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0334",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1191528,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0234",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 900522,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0080",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 2893323,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0229",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1036798,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0471",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1595305,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0144",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3463742,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0344",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4267764,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0063",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4225580,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0035",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2989223,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0379",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 1171374,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0471",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4761751,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0217",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4917496,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0226",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4347860,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0078",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1441773,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0131",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4247149,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0477",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1580202,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0160",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4041722,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0126",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3776507,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0462",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1717545,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0473",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4447671,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0002",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4324969,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0426",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2577225,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0434",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2989096,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0176",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3753457,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0449",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 285938,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0282",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 532242,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0244",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2696882,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0207",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4685763,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0250",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1224692,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0431",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3619327,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0194",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 3219317,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0230",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 657092,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0276",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2617754,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0263",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 4754124,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0113",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2083125,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0028",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 579218,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0311",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 243739,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0005",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4809201,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0240",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 1583548,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0228",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 4772236,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0079",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2625426,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0316",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 3527093,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0117",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 4959289,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0213",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 2027510,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0399",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 332196,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0169",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2947225,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0198",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 1380216,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0114",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1043336,
+    "owner": "Rahul Sharma"
+  },
+  {
+    "customer_id": "C0214",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 4253911,
+    "owner": "Priya Shah"
+  },
+  {
+    "customer_id": "C0121",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 208861,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0234",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2484772,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0138",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3655492,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0106",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 2319870,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0198",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Negotiation",
+    "value": 3423685,
+    "owner": "Vivek Singh"
+  },
+  {
+    "customer_id": "C0199",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Proposal",
+    "value": 2521962,
+    "owner": "Neha Gupta"
+  },
+  {
+    "customer_id": "C0239",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Won",
+    "value": 3747071,
+    "owner": "Amit Patel"
+  },
+  {
+    "customer_id": "C0348",
+    "opportunity": "AI Platform Renewal",
+    "stage": "Prospecting",
+    "value": 1076375,
+    "owner": "Neha Gupta"
+  }
+]

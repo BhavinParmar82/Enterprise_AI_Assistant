@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env
+.venv
+ai_assistant_env
+__pycache__
+*.py[cod]
+*.log
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.vscode
+.idea
+tests
+Dockerfile*
+README.md

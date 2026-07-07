@@ -1,0 +1,39 @@
+# UI
+streamlit
+
+# Environment
+python-dotenv
+
+# OpenAI
+openai
+
+# LangChain
+langchain
+langchain-core
+langchain-openai
+langchain-community
+
+# LangGraph
+langgraph
+
+# MCP
+mcp
+langchain-mcp-adapters
+
+# API Server
+fastapi
+uvicorn
+
+# Data Processing
+pandas
+numpy
+openpyxl
+
+# Validation
+pydantic
+
+# HTTP
+httpx
+
+# Logging
+loguru

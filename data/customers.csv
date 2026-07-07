@@ -1,0 +1,501 @@
+customer_id,company,industry,city,country,customer_since,account_manager
+C0001,Cipla 1,IT,Bengaluru,India,2022-07-18,Priya Shah
+C0002,HCL 2,Retail,Delhi,India,2021-07-29,Vivek Singh
+C0003,TCS 3,Manufacturing,Hyderabad,India,2021-03-07,Rahul Sharma
+C0004,TCS 4,Retail,Mumbai,India,2023-11-01,Vivek Singh
+C0005,Infosys 5,Manufacturing,Mumbai,India,2025-01-06,Vivek Singh
+C0006,Apollo Hospitals 6,Retail,Hyderabad,India,2024-04-21,Amit Patel
+C0007,Flipkart 7,IT,Ahmedabad,India,2021-11-23,Neha Gupta
+C0008,Reliance Retail 8,Healthcare,Mumbai,India,2022-03-17,Amit Patel
+C0009,TCS 9,IT,Hyderabad,India,2021-07-18,Amit Patel
+C0010,Zomato 10,Healthcare,Pune,India,2022-06-26,Rahul Sharma
+C0011,Asian Paints 11,Banking,Pune,India,2021-09-13,Neha Gupta
+C0012,TCS 12,Manufacturing,Chennai,India,2024-07-11,Vivek Singh
+C0013,Swiggy 13,Healthcare,Pune,India,2022-01-29,Rahul Sharma
+C0014,Infosys 14,Retail,Ahmedabad,India,2022-08-16,Rahul Sharma
+C0015,Zomato 15,Retail,Ahmedabad,India,2021-07-26,Neha Gupta
+C0016,Tech Mahindra 16,Banking,Delhi,India,2023-01-18,Priya Shah
+C0017,Reliance Retail 17,Healthcare,Mumbai,India,2024-10-04,Amit Patel
+C0018,Asian Paints 18,IT,Pune,India,2024-07-24,Priya Shah
+C0019,ICICI Bank 19,Retail,Mumbai,India,2023-08-05,Neha Gupta
+C0020,Tech Mahindra 20,Manufacturing,Mumbai,India,2024-11-03,Amit Patel
+C0021,Zomato 21,IT,Mumbai,India,2021-03-07,Amit Patel
+C0022,Apollo Hospitals 22,Healthcare,Bengaluru,India,2022-03-09,Vivek Singh
+C0023,Swiggy 23,Healthcare,Mumbai,India,2024-09-04,Neha Gupta
+C0024,Apollo Hospitals 24,Banking,Mumbai,India,2022-06-27,Priya Shah
+C0025,HCL 25,Manufacturing,Pune,India,2022-06-23,Vivek Singh
+C0026,Apollo Hospitals 26,Manufacturing,Hyderabad,India,2023-01-12,Priya Shah
+C0027,Wipro 27,Manufacturing,Hyderabad,India,2021-07-06,Rahul Sharma
+C0028,Zomato 28,IT,Mumbai,India,2024-07-09,Priya Shah
+C0029,Flipkart 29,Banking,Pune,India,2021-05-11,Neha Gupta
+C0030,Apollo Hospitals 30,Manufacturing,Hyderabad,India,2023-12-20,Amit Patel
+C0031,ICICI Bank 31,IT,Delhi,India,2025-01-16,Rahul Sharma
+C0032,Cipla 32,Manufacturing,Ahmedabad,India,2022-07-01,Amit Patel
+C0033,TCS 33,Healthcare,Hyderabad,India,2021-11-20,Neha Gupta
+C0034,Infosys 34,Healthcare,Pune,India,2022-01-01,Vivek Singh
+C0035,Swiggy 35,IT,Ahmedabad,India,2024-07-04,Amit Patel
+C0036,Zomato 36,Manufacturing,Pune,India,2022-02-12,Priya Shah
+C0037,Reliance Retail 37,Retail,Pune,India,2023-12-23,Rahul Sharma
+C0038,L&T 38,Healthcare,Hyderabad,India,2021-02-09,Rahul Sharma
+C0039,Swiggy 39,Healthcare,Ahmedabad,India,2022-09-22,Priya Shah
+C0040,Infosys 40,Retail,Pune,India,2021-06-11,Rahul Sharma
+C0041,Asian Paints 41,Banking,Ahmedabad,India,2021-05-22,Vivek Singh
+C0042,Flipkart 42,Retail,Mumbai,India,2024-09-13,Neha Gupta
+C0043,ICICI Bank 43,Retail,Chennai,India,2023-12-17,Vivek Singh
+C0044,Apollo Hospitals 44,Retail,Pune,India,2025-02-03,Priya Shah
+C0045,Asian Paints 45,Healthcare,Hyderabad,India,2024-10-07,Amit Patel
+C0046,HDFC Bank 46,Manufacturing,Hyderabad,India,2021-09-05,Priya Shah
+C0047,HCL 47,IT,Chennai,India,2021-02-13,Vivek Singh
+C0048,ICICI Bank 48,Retail,Pune,India,2022-03-28,Rahul Sharma
+C0049,TCS 49,IT,Mumbai,India,2021-05-19,Rahul Sharma
+C0050,Zomato 50,Healthcare,Bengaluru,India,2023-11-19,Priya Shah
+C0051,Tech Mahindra 51,Banking,Mumbai,India,2024-01-10,Priya Shah
+C0052,Asian Paints 52,Manufacturing,Pune,India,2023-08-27,Priya Shah
+C0053,Flipkart 53,Banking,Ahmedabad,India,2023-04-14,Priya Shah
+C0054,TCS 54,IT,Delhi,India,2023-06-02,Amit Patel
+C0055,Apollo Hospitals 55,Banking,Hyderabad,India,2025-02-02,Rahul Sharma
+C0056,Cipla 56,IT,Bengaluru,India,2023-04-05,Amit Patel
+C0057,Flipkart 57,IT,Mumbai,India,2022-01-28,Priya Shah
+C0058,ICICI Bank 58,Banking,Mumbai,India,2023-05-15,Priya Shah
+C0059,Tech Mahindra 59,Banking,Mumbai,India,2021-06-04,Neha Gupta
+C0060,Flipkart 60,Manufacturing,Bengaluru,India,2021-04-14,Vivek Singh
+C0061,Zomato 61,IT,Bengaluru,India,2022-04-30,Priya Shah
+C0062,Apollo Hospitals 62,Banking,Hyderabad,India,2022-03-14,Neha Gupta
+C0063,Swiggy 63,IT,Mumbai,India,2023-02-16,Rahul Sharma
+C0064,Apollo Hospitals 64,Healthcare,Ahmedabad,India,2023-07-21,Amit Patel
+C0065,Apollo Hospitals 65,Manufacturing,Delhi,India,2025-01-11,Neha Gupta
+C0066,Wipro 66,Retail,Chennai,India,2022-03-22,Rahul Sharma
+C0067,L&T 67,Manufacturing,Bengaluru,India,2022-10-05,Rahul Sharma
+C0068,Infosys 68,Manufacturing,Hyderabad,India,2023-10-27,Vivek Singh
+C0069,Wipro 69,IT,Pune,India,2021-06-14,Priya Shah
+C0070,TCS 70,Manufacturing,Bengaluru,India,2024-10-14,Priya Shah
+C0071,Apollo Hospitals 71,IT,Pune,India,2022-05-20,Vivek Singh
+C0072,L&T 72,IT,Pune,India,2021-06-17,Neha Gupta
+C0073,Cipla 73,Manufacturing,Pune,India,2023-12-07,Amit Patel
+C0074,Swiggy 74,Healthcare,Mumbai,India,2024-10-03,Amit Patel
+C0075,HCL 75,Healthcare,Hyderabad,India,2021-09-26,Amit Patel
+C0076,HDFC Bank 76,Healthcare,Ahmedabad,India,2021-05-29,Rahul Sharma
+C0077,HDFC Bank 77,Manufacturing,Pune,India,2021-07-24,Rahul Sharma
+C0078,ICICI Bank 78,Retail,Pune,India,2022-06-28,Priya Shah
+C0079,Swiggy 79,Healthcare,Bengaluru,India,2022-05-16,Amit Patel
+C0080,Tech Mahindra 80,Retail,Hyderabad,India,2024-01-18,Amit Patel
+C0081,L&T 81,Manufacturing,Bengaluru,India,2024-09-29,Vivek Singh
+C0082,Tech Mahindra 82,IT,Mumbai,India,2022-06-26,Rahul Sharma
+C0083,Swiggy 83,IT,Delhi,India,2024-02-08,Priya Shah
+C0084,Tech Mahindra 84,Healthcare,Pune,India,2022-03-08,Amit Patel
+C0085,HCL 85,Healthcare,Pune,India,2023-09-28,Amit Patel
+C0086,Swiggy 86,IT,Bengaluru,India,2024-07-23,Neha Gupta
+C0087,Zomato 87,Healthcare,Bengaluru,India,2021-01-08,Amit Patel
+C0088,Flipkart 88,Retail,Delhi,India,2022-06-21,Priya Shah
+C0089,Asian Paints 89,Banking,Pune,India,2024-12-16,Neha Gupta
+C0090,ICICI Bank 90,IT,Bengaluru,India,2021-06-04,Priya Shah
+C0091,ICICI Bank 91,IT,Ahmedabad,India,2023-01-27,Vivek Singh
+C0092,ICICI Bank 92,Retail,Hyderabad,India,2021-09-19,Rahul Sharma
+C0093,Tech Mahindra 93,Healthcare,Ahmedabad,India,2021-03-23,Amit Patel
+C0094,HCL 94,Retail,Delhi,India,2021-07-30,Amit Patel
+C0095,Flipkart 95,Manufacturing,Ahmedabad,India,2023-04-13,Vivek Singh
+C0096,Asian Paints 96,Retail,Mumbai,India,2021-11-29,Priya Shah
+C0097,Swiggy 97,Banking,Bengaluru,India,2022-01-03,Amit Patel
+C0098,Flipkart 98,Banking,Ahmedabad,India,2024-10-03,Priya Shah
+C0099,Tech Mahindra 99,Retail,Ahmedabad,India,2024-12-07,Rahul Sharma
+C0100,Apollo Hospitals 100,IT,Ahmedabad,India,2023-08-22,Priya Shah
+C0101,HCL 101,Banking,Chennai,India,2022-09-18,Priya Shah
+C0102,HCL 102,IT,Delhi,India,2022-01-31,Neha Gupta
+C0103,Reliance Retail 103,Healthcare,Ahmedabad,India,2021-05-23,Amit Patel
+C0104,Reliance Retail 104,Manufacturing,Hyderabad,India,2024-10-23,Vivek Singh
+C0105,Reliance Retail 105,IT,Bengaluru,India,2022-06-19,Priya Shah
+C0106,L&T 106,Healthcare,Bengaluru,India,2021-08-11,Vivek Singh
+C0107,Apollo Hospitals 107,Healthcare,Delhi,India,2022-10-05,Neha Gupta
+C0108,L&T 108,Manufacturing,Bengaluru,India,2023-02-28,Vivek Singh
+C0109,HCL 109,Healthcare,Bengaluru,India,2024-12-22,Neha Gupta
+C0110,Infosys 110,Manufacturing,Ahmedabad,India,2024-01-08,Priya Shah
+C0111,Reliance Retail 111,Banking,Bengaluru,India,2024-09-22,Amit Patel
+C0112,L&T 112,Healthcare,Delhi,India,2021-09-13,Amit Patel
+C0113,ICICI Bank 113,Healthcare,Delhi,India,2023-04-17,Amit Patel
+C0114,Apollo Hospitals 114,Healthcare,Pune,India,2021-09-18,Priya Shah
+C0115,Apollo Hospitals 115,Banking,Delhi,India,2021-12-23,Vivek Singh
+C0116,L&T 116,Healthcare,Hyderabad,India,2024-01-28,Rahul Sharma
+C0117,Tech Mahindra 117,Healthcare,Mumbai,India,2023-05-31,Vivek Singh
+C0118,L&T 118,Healthcare,Hyderabad,India,2023-06-24,Neha Gupta
+C0119,Cipla 119,Retail,Pune,India,2023-08-28,Priya Shah
+C0120,Cipla 120,IT,Chennai,India,2023-11-22,Vivek Singh
+C0121,Reliance Retail 121,IT,Ahmedabad,India,2022-04-27,Amit Patel
+C0122,HCL 122,Retail,Mumbai,India,2021-02-20,Rahul Sharma
+C0123,HCL 123,Banking,Pune,India,2021-05-30,Neha Gupta
+C0124,Apollo Hospitals 124,Manufacturing,Mumbai,India,2025-01-11,Neha Gupta
+C0125,HDFC Bank 125,Banking,Mumbai,India,2021-10-30,Rahul Sharma
+C0126,Swiggy 126,IT,Ahmedabad,India,2023-05-21,Priya Shah
+C0127,Wipro 127,Manufacturing,Hyderabad,India,2021-04-13,Vivek Singh
+C0128,HCL 128,IT,Hyderabad,India,2021-10-01,Neha Gupta
+C0129,Cipla 129,Manufacturing,Pune,India,2024-05-04,Amit Patel
+C0130,Flipkart 130,Banking,Pune,India,2025-01-13,Vivek Singh
+C0131,Apollo Hospitals 131,Manufacturing,Hyderabad,India,2021-11-22,Neha Gupta
+C0132,HDFC Bank 132,Healthcare,Ahmedabad,India,2022-05-22,Amit Patel
+C0133,Flipkart 133,Manufacturing,Hyderabad,India,2024-07-07,Priya Shah
+C0134,Tech Mahindra 134,Banking,Bengaluru,India,2025-01-01,Amit Patel
+C0135,HCL 135,Healthcare,Chennai,India,2022-10-17,Vivek Singh
+C0136,TCS 136,Retail,Mumbai,India,2022-04-19,Neha Gupta
+C0137,Asian Paints 137,Retail,Delhi,India,2022-03-15,Rahul Sharma
+C0138,Apollo Hospitals 138,Banking,Chennai,India,2024-01-17,Neha Gupta
+C0139,Apollo Hospitals 139,IT,Mumbai,India,2023-05-11,Neha Gupta
+C0140,Swiggy 140,Manufacturing,Delhi,India,2021-02-10,Vivek Singh
+C0141,Apollo Hospitals 141,Banking,Bengaluru,India,2022-12-22,Amit Patel
+C0142,Flipkart 142,Banking,Ahmedabad,India,2023-05-09,Vivek Singh
+C0143,Asian Paints 143,Manufacturing,Ahmedabad,India,2024-05-20,Priya Shah
+C0144,HDFC Bank 144,Retail,Chennai,India,2023-06-12,Neha Gupta
+C0145,Infosys 145,Banking,Chennai,India,2024-10-01,Neha Gupta
+C0146,Asian Paints 146,Retail,Ahmedabad,India,2023-08-16,Priya Shah
+C0147,L&T 147,Manufacturing,Bengaluru,India,2023-03-18,Vivek Singh
+C0148,L&T 148,IT,Bengaluru,India,2024-08-09,Neha Gupta
+C0149,Wipro 149,Banking,Mumbai,India,2021-04-13,Amit Patel
+C0150,Apollo Hospitals 150,Healthcare,Mumbai,India,2023-07-21,Amit Patel
+C0151,Reliance Retail 151,Banking,Chennai,India,2023-05-14,Amit Patel
+C0152,Zomato 152,IT,Hyderabad,India,2021-02-09,Vivek Singh
+C0153,Infosys 153,Healthcare,Mumbai,India,2024-08-24,Rahul Sharma
+C0154,Flipkart 154,IT,Ahmedabad,India,2021-03-05,Priya Shah
+C0155,HCL 155,IT,Pune,India,2021-11-09,Priya Shah
+C0156,Wipro 156,Banking,Delhi,India,2021-08-23,Vivek Singh
+C0157,HCL 157,Banking,Delhi,India,2022-06-09,Amit Patel
+C0158,Wipro 158,Manufacturing,Pune,India,2025-01-11,Rahul Sharma
+C0159,Flipkart 159,Retail,Chennai,India,2021-08-10,Vivek Singh
+C0160,Infosys 160,Healthcare,Pune,India,2024-10-19,Neha Gupta
+C0161,Apollo Hospitals 161,Retail,Bengaluru,India,2024-04-27,Priya Shah
+C0162,TCS 162,Healthcare,Ahmedabad,India,2024-11-02,Vivek Singh
+C0163,Flipkart 163,IT,Ahmedabad,India,2024-03-05,Rahul Sharma
+C0164,Reliance Retail 164,Manufacturing,Hyderabad,India,2024-09-16,Amit Patel
+C0165,TCS 165,Manufacturing,Delhi,India,2022-11-30,Rahul Sharma
+C0166,Zomato 166,Banking,Ahmedabad,India,2023-10-01,Rahul Sharma
+C0167,Apollo Hospitals 167,Healthcare,Delhi,India,2023-07-31,Priya Shah
+C0168,Apollo Hospitals 168,Retail,Delhi,India,2023-12-05,Amit Patel
+C0169,L&T 169,Manufacturing,Ahmedabad,India,2023-09-18,Neha Gupta
+C0170,Apollo Hospitals 170,Manufacturing,Chennai,India,2022-10-23,Priya Shah
+C0171,Zomato 171,IT,Chennai,India,2023-07-13,Priya Shah
+C0172,Flipkart 172,Banking,Pune,India,2024-06-03,Neha Gupta
+C0173,Reliance Retail 173,IT,Hyderabad,India,2022-10-28,Priya Shah
+C0174,HDFC Bank 174,Retail,Chennai,India,2022-06-14,Amit Patel
+C0175,Tech Mahindra 175,Manufacturing,Delhi,India,2022-07-20,Vivek Singh
+C0176,Infosys 176,Manufacturing,Mumbai,India,2021-06-25,Priya Shah
+C0177,Asian Paints 177,Banking,Hyderabad,India,2024-02-12,Priya Shah
+C0178,Asian Paints 178,Banking,Delhi,India,2024-12-28,Neha Gupta
+C0179,HDFC Bank 179,IT,Bengaluru,India,2022-08-26,Priya Shah
+C0180,Apollo Hospitals 180,Retail,Chennai,India,2024-09-21,Vivek Singh
+C0181,Reliance Retail 181,Banking,Pune,India,2023-12-24,Amit Patel
+C0182,Apollo Hospitals 182,Manufacturing,Chennai,India,2022-12-22,Neha Gupta
+C0183,Tech Mahindra 183,Healthcare,Chennai,India,2022-04-18,Rahul Sharma
+C0184,Asian Paints 184,Retail,Chennai,India,2021-09-02,Vivek Singh
+C0185,Flipkart 185,Retail,Mumbai,India,2022-03-20,Neha Gupta
+C0186,Tech Mahindra 186,Manufacturing,Ahmedabad,India,2023-12-11,Vivek Singh
+C0187,Tech Mahindra 187,IT,Ahmedabad,India,2022-02-02,Amit Patel
+C0188,HCL 188,Healthcare,Mumbai,India,2022-09-12,Rahul Sharma
+C0189,Asian Paints 189,Manufacturing,Mumbai,India,2022-07-16,Rahul Sharma
+C0190,Infosys 190,Manufacturing,Chennai,India,2024-11-29,Priya Shah
+C0191,Cipla 191,Banking,Bengaluru,India,2021-01-26,Vivek Singh
+C0192,Tech Mahindra 192,Banking,Hyderabad,India,2023-06-22,Amit Patel
+C0193,Wipro 193,IT,Chennai,India,2023-09-06,Rahul Sharma
+C0194,Zomato 194,IT,Hyderabad,India,2023-10-05,Rahul Sharma
+C0195,L&T 195,IT,Mumbai,India,2021-11-02,Vivek Singh
+C0196,Tech Mahindra 196,IT,Mumbai,India,2021-08-31,Vivek Singh
+C0197,Flipkart 197,Banking,Pune,India,2024-05-05,Vivek Singh
+C0198,HCL 198,Manufacturing,Hyderabad,India,2023-07-12,Neha Gupta
+C0199,Tech Mahindra 199,Manufacturing,Hyderabad,India,2022-09-18,Vivek Singh
+C0200,L&T 200,IT,Pune,India,2021-07-23,Priya Shah
+C0201,Cipla 201,Retail,Chennai,India,2024-09-14,Rahul Sharma
+C0202,Wipro 202,Retail,Mumbai,India,2024-02-05,Rahul Sharma
+C0203,Wipro 203,IT,Hyderabad,India,2023-07-12,Vivek Singh
+C0204,HDFC Bank 204,Healthcare,Bengaluru,India,2022-04-20,Amit Patel
+C0205,Asian Paints 205,Healthcare,Delhi,India,2023-07-19,Rahul Sharma
+C0206,Cipla 206,Retail,Chennai,India,2024-07-04,Vivek Singh
+C0207,Cipla 207,Retail,Hyderabad,India,2021-08-24,Vivek Singh
+C0208,HCL 208,Retail,Chennai,India,2021-10-19,Rahul Sharma
+C0209,Infosys 209,Retail,Ahmedabad,India,2022-09-22,Vivek Singh
+C0210,Asian Paints 210,Manufacturing,Chennai,India,2023-06-19,Rahul Sharma
+C0211,HDFC Bank 211,Healthcare,Delhi,India,2023-04-05,Amit Patel
+C0212,ICICI Bank 212,Manufacturing,Hyderabad,India,2023-06-16,Rahul Sharma
+C0213,L&T 213,IT,Hyderabad,India,2022-10-23,Vivek Singh
+C0214,Tech Mahindra 214,IT,Bengaluru,India,2022-04-14,Vivek Singh
+C0215,L&T 215,IT,Ahmedabad,India,2024-10-08,Amit Patel
+C0216,L&T 216,IT,Ahmedabad,India,2021-12-25,Neha Gupta
+C0217,ICICI Bank 217,Banking,Chennai,India,2022-01-07,Vivek Singh
+C0218,Apollo Hospitals 218,Banking,Bengaluru,India,2023-08-21,Amit Patel
+C0219,Apollo Hospitals 219,Healthcare,Chennai,India,2024-10-04,Rahul Sharma
+C0220,Zomato 220,Retail,Chennai,India,2023-04-24,Neha Gupta
+C0221,Tech Mahindra 221,Banking,Ahmedabad,India,2024-02-01,Rahul Sharma
+C0222,HDFC Bank 222,IT,Chennai,India,2022-06-01,Amit Patel
+C0223,TCS 223,Banking,Ahmedabad,India,2023-11-20,Rahul Sharma
+C0224,Cipla 224,Manufacturing,Hyderabad,India,2023-04-27,Rahul Sharma
+C0225,HCL 225,Manufacturing,Chennai,India,2024-06-29,Neha Gupta
+C0226,Cipla 226,Banking,Ahmedabad,India,2021-04-16,Priya Shah
+C0227,Tech Mahindra 227,Manufacturing,Mumbai,India,2022-08-13,Neha Gupta
+C0228,Swiggy 228,Banking,Bengaluru,India,2021-03-01,Vivek Singh
+C0229,Flipkart 229,Retail,Delhi,India,2021-11-21,Amit Patel
+C0230,ICICI Bank 230,IT,Pune,India,2023-04-16,Rahul Sharma
+C0231,HCL 231,IT,Hyderabad,India,2021-08-29,Priya Shah
+C0232,HDFC Bank 232,Healthcare,Pune,India,2024-12-15,Amit Patel
+C0233,Apollo Hospitals 233,Banking,Hyderabad,India,2022-05-15,Neha Gupta
+C0234,ICICI Bank 234,Retail,Hyderabad,India,2022-01-26,Vivek Singh
+C0235,ICICI Bank 235,Retail,Ahmedabad,India,2021-05-23,Amit Patel
+C0236,Flipkart 236,Banking,Chennai,India,2023-11-06,Amit Patel
+C0237,Zomato 237,IT,Chennai,India,2025-01-26,Amit Patel
+C0238,Zomato 238,Manufacturing,Pune,India,2024-09-13,Neha Gupta
+C0239,Zomato 239,Retail,Hyderabad,India,2024-01-09,Neha Gupta
+C0240,Reliance Retail 240,Healthcare,Pune,India,2024-01-18,Neha Gupta
+C0241,HDFC Bank 241,Healthcare,Ahmedabad,India,2022-01-22,Priya Shah
+C0242,L&T 242,Banking,Mumbai,India,2023-04-22,Rahul Sharma
+C0243,Reliance Retail 243,Banking,Delhi,India,2023-02-20,Neha Gupta
+C0244,Cipla 244,Retail,Hyderabad,India,2021-03-17,Priya Shah
+C0245,ICICI Bank 245,Manufacturing,Chennai,India,2021-07-25,Neha Gupta
+C0246,TCS 246,Manufacturing,Hyderabad,India,2021-02-01,Priya Shah
+C0247,Apollo Hospitals 247,Retail,Bengaluru,India,2023-08-20,Amit Patel
+C0248,Reliance Retail 248,Manufacturing,Delhi,India,2023-03-26,Rahul Sharma
+C0249,Zomato 249,Healthcare,Ahmedabad,India,2024-10-13,Vivek Singh
+C0250,Apollo Hospitals 250,Healthcare,Delhi,India,2025-01-11,Neha Gupta
+C0251,Zomato 251,Manufacturing,Bengaluru,India,2024-06-18,Rahul Sharma
+C0252,HCL 252,Healthcare,Mumbai,India,2021-07-05,Neha Gupta
+C0253,TCS 253,IT,Hyderabad,India,2021-12-07,Amit Patel
+C0254,Swiggy 254,IT,Bengaluru,India,2022-10-27,Rahul Sharma
+C0255,Tech Mahindra 255,Healthcare,Chennai,India,2023-06-02,Priya Shah
+C0256,HCL 256,Manufacturing,Hyderabad,India,2024-03-05,Priya Shah
+C0257,Wipro 257,Retail,Bengaluru,India,2024-06-02,Neha Gupta
+C0258,L&T 258,Retail,Hyderabad,India,2024-04-09,Priya Shah
+C0259,HCL 259,Banking,Delhi,India,2022-06-05,Neha Gupta
+C0260,Tech Mahindra 260,IT,Ahmedabad,India,2023-08-11,Amit Patel
+C0261,Cipla 261,Manufacturing,Mumbai,India,2021-06-01,Neha Gupta
+C0262,Reliance Retail 262,Manufacturing,Chennai,India,2024-08-01,Neha Gupta
+C0263,Asian Paints 263,Healthcare,Hyderabad,India,2022-09-11,Priya Shah
+C0264,Apollo Hospitals 264,Banking,Bengaluru,India,2022-05-01,Neha Gupta
+C0265,L&T 265,Healthcare,Pune,India,2022-08-29,Amit Patel
+C0266,Infosys 266,Banking,Chennai,India,2021-01-17,Vivek Singh
+C0267,Zomato 267,IT,Pune,India,2023-10-15,Amit Patel
+C0268,Flipkart 268,Retail,Pune,India,2022-12-23,Priya Shah
+C0269,Cipla 269,Retail,Pune,India,2022-05-29,Priya Shah
+C0270,Cipla 270,IT,Delhi,India,2024-08-16,Rahul Sharma
+C0271,Tech Mahindra 271,Banking,Bengaluru,India,2024-04-01,Amit Patel
+C0272,Asian Paints 272,Retail,Bengaluru,India,2022-08-28,Amit Patel
+C0273,Asian Paints 273,Banking,Mumbai,India,2022-02-16,Priya Shah
+C0274,Flipkart 274,Manufacturing,Chennai,India,2023-12-24,Vivek Singh
+C0275,Swiggy 275,Healthcare,Ahmedabad,India,2021-12-03,Amit Patel
+C0276,Swiggy 276,Banking,Ahmedabad,India,2022-08-28,Amit Patel
+C0277,Flipkart 277,IT,Hyderabad,India,2021-06-04,Priya Shah
+C0278,Flipkart 278,Retail,Ahmedabad,India,2024-10-17,Neha Gupta
+C0279,Zomato 279,Manufacturing,Chennai,India,2021-07-04,Neha Gupta
+C0280,Infosys 280,Healthcare,Pune,India,2021-09-11,Neha Gupta
+C0281,Reliance Retail 281,Healthcare,Pune,India,2023-02-20,Amit Patel
+C0282,TCS 282,Retail,Hyderabad,India,2021-02-21,Vivek Singh
+C0283,Swiggy 283,Manufacturing,Chennai,India,2024-06-03,Priya Shah
+C0284,Cipla 284,IT,Delhi,India,2023-08-09,Amit Patel
+C0285,Cipla 285,Banking,Bengaluru,India,2021-10-14,Rahul Sharma
+C0286,Infosys 286,Healthcare,Hyderabad,India,2021-08-26,Rahul Sharma
+C0287,HCL 287,Manufacturing,Mumbai,India,2023-03-07,Neha Gupta
+C0288,Reliance Retail 288,Manufacturing,Hyderabad,India,2024-04-17,Priya Shah
+C0289,Swiggy 289,Banking,Delhi,India,2021-07-22,Neha Gupta
+C0290,L&T 290,Banking,Chennai,India,2021-03-09,Amit Patel
+C0291,HCL 291,Banking,Hyderabad,India,2022-04-29,Amit Patel
+C0292,TCS 292,Healthcare,Pune,India,2024-08-13,Amit Patel
+C0293,Infosys 293,Banking,Chennai,India,2022-01-24,Rahul Sharma
+C0294,Zomato 294,Banking,Bengaluru,India,2024-09-19,Priya Shah
+C0295,Cipla 295,Manufacturing,Bengaluru,India,2021-04-14,Amit Patel
+C0296,HCL 296,Retail,Ahmedabad,India,2024-03-02,Priya Shah
+C0297,TCS 297,Manufacturing,Mumbai,India,2024-04-15,Priya Shah
+C0298,Zomato 298,Retail,Chennai,India,2021-10-30,Vivek Singh
+C0299,Infosys 299,Healthcare,Ahmedabad,India,2021-10-24,Priya Shah
+C0300,ICICI Bank 300,Healthcare,Ahmedabad,India,2021-12-24,Rahul Sharma
+C0301,Cipla 301,IT,Mumbai,India,2021-01-31,Amit Patel
+C0302,Flipkart 302,Retail,Pune,India,2022-10-26,Rahul Sharma
+C0303,Wipro 303,Healthcare,Bengaluru,India,2021-09-17,Neha Gupta
+C0304,ICICI Bank 304,IT,Delhi,India,2021-05-11,Neha Gupta
+C0305,HDFC Bank 305,Healthcare,Pune,India,2024-04-30,Rahul Sharma
+C0306,HDFC Bank 306,Manufacturing,Mumbai,India,2024-06-13,Rahul Sharma
+C0307,Asian Paints 307,Manufacturing,Chennai,India,2023-07-28,Rahul Sharma
+C0308,Infosys 308,Banking,Ahmedabad,India,2023-04-03,Neha Gupta
+C0309,Cipla 309,IT,Hyderabad,India,2024-12-29,Neha Gupta
+C0310,TCS 310,IT,Chennai,India,2024-05-30,Priya Shah
+C0311,TCS 311,Retail,Chennai,India,2024-07-02,Vivek Singh
+C0312,ICICI Bank 312,Healthcare,Hyderabad,India,2024-05-08,Vivek Singh
+C0313,Tech Mahindra 313,Banking,Pune,India,2024-05-24,Neha Gupta
+C0314,TCS 314,IT,Ahmedabad,India,2024-09-02,Vivek Singh
+C0315,Asian Paints 315,Retail,Hyderabad,India,2023-07-14,Priya Shah
+C0316,Apollo Hospitals 316,Healthcare,Ahmedabad,India,2023-07-18,Neha Gupta
+C0317,Apollo Hospitals 317,IT,Chennai,India,2023-05-25,Amit Patel
+C0318,Cipla 318,Healthcare,Chennai,India,2021-11-09,Neha Gupta
+C0319,TCS 319,IT,Ahmedabad,India,2021-06-24,Rahul Sharma
+C0320,Apollo Hospitals 320,IT,Delhi,India,2023-02-03,Priya Shah
+C0321,ICICI Bank 321,IT,Pune,India,2024-02-25,Vivek Singh
+C0322,Reliance Retail 322,IT,Hyderabad,India,2022-12-26,Neha Gupta
+C0323,Zomato 323,IT,Chennai,India,2024-05-14,Amit Patel
+C0324,Reliance Retail 324,IT,Pune,India,2023-11-06,Priya Shah
+C0325,Wipro 325,Banking,Mumbai,India,2021-08-10,Amit Patel
+C0326,Zomato 326,Manufacturing,Chennai,India,2021-08-24,Amit Patel
+C0327,L&T 327,Retail,Ahmedabad,India,2023-05-29,Vivek Singh
+C0328,Flipkart 328,Manufacturing,Pune,India,2024-10-14,Vivek Singh
+C0329,Infosys 329,Manufacturing,Delhi,India,2024-11-21,Amit Patel
+C0330,Infosys 330,Retail,Chennai,India,2024-12-10,Amit Patel
+C0331,Swiggy 331,Healthcare,Chennai,India,2021-01-13,Priya Shah
+C0332,Zomato 332,Retail,Pune,India,2024-09-08,Neha Gupta
+C0333,TCS 333,Retail,Delhi,India,2024-07-20,Rahul Sharma
+C0334,TCS 334,Manufacturing,Mumbai,India,2023-02-10,Neha Gupta
+C0335,HDFC Bank 335,Healthcare,Mumbai,India,2023-01-28,Amit Patel
+C0336,Asian Paints 336,Healthcare,Ahmedabad,India,2024-03-08,Vivek Singh
+C0337,TCS 337,IT,Mumbai,India,2021-11-19,Vivek Singh
+C0338,Infosys 338,IT,Chennai,India,2023-06-27,Neha Gupta
+C0339,HDFC Bank 339,Manufacturing,Hyderabad,India,2023-04-29,Amit Patel
+C0340,HCL 340,Manufacturing,Bengaluru,India,2022-12-08,Neha Gupta
+C0341,TCS 341,Healthcare,Delhi,India,2024-10-21,Vivek Singh
+C0342,HDFC Bank 342,Manufacturing,Delhi,India,2022-09-24,Rahul Sharma
+C0343,HCL 343,Banking,Pune,India,2021-04-23,Rahul Sharma
+C0344,HCL 344,Healthcare,Mumbai,India,2021-10-09,Amit Patel
+C0345,Tech Mahindra 345,Healthcare,Bengaluru,India,2021-01-16,Neha Gupta
+C0346,Asian Paints 346,Banking,Mumbai,India,2021-09-22,Neha Gupta
+C0347,ICICI Bank 347,Retail,Pune,India,2024-02-19,Amit Patel
+C0348,TCS 348,Banking,Ahmedabad,India,2021-03-28,Neha Gupta
+C0349,Infosys 349,Banking,Bengaluru,India,2022-10-04,Vivek Singh
+C0350,Apollo Hospitals 350,Manufacturing,Hyderabad,India,2024-12-24,Neha Gupta
+C0351,Tech Mahindra 351,IT,Hyderabad,India,2021-02-12,Amit Patel
+C0352,Wipro 352,Manufacturing,Hyderabad,India,2024-11-13,Amit Patel
+C0353,TCS 353,Banking,Ahmedabad,India,2021-08-05,Priya Shah
+C0354,Apollo Hospitals 354,Manufacturing,Hyderabad,India,2023-12-10,Rahul Sharma
+C0355,Apollo Hospitals 355,Healthcare,Delhi,India,2022-11-27,Priya Shah
+C0356,Reliance Retail 356,Retail,Bengaluru,India,2023-11-12,Rahul Sharma
+C0357,ICICI Bank 357,Manufacturing,Mumbai,India,2022-12-17,Amit Patel
+C0358,Asian Paints 358,Retail,Mumbai,India,2021-07-30,Priya Shah
+C0359,Tech Mahindra 359,Retail,Mumbai,India,2024-05-18,Priya Shah
+C0360,Flipkart 360,IT,Mumbai,India,2024-07-10,Neha Gupta
+C0361,HDFC Bank 361,Manufacturing,Ahmedabad,India,2024-04-01,Neha Gupta
+C0362,Cipla 362,Manufacturing,Delhi,India,2024-07-25,Vivek Singh
+C0363,Reliance Retail 363,Healthcare,Mumbai,India,2023-06-20,Rahul Sharma
+C0364,HDFC Bank 364,Banking,Delhi,India,2022-09-13,Amit Patel
+C0365,L&T 365,IT,Chennai,India,2023-11-06,Rahul Sharma
+C0366,Tech Mahindra 366,Banking,Hyderabad,India,2021-03-19,Rahul Sharma
+C0367,Reliance Retail 367,Healthcare,Bengaluru,India,2024-08-13,Rahul Sharma
+C0368,L&T 368,Manufacturing,Pune,India,2023-02-27,Neha Gupta
+C0369,L&T 369,Manufacturing,Ahmedabad,India,2021-03-26,Neha Gupta
+C0370,Swiggy 370,Manufacturing,Delhi,India,2022-01-21,Amit Patel
+C0371,L&T 371,Banking,Pune,India,2021-11-05,Rahul Sharma
+C0372,HDFC Bank 372,IT,Ahmedabad,India,2022-12-05,Rahul Sharma
+C0373,ICICI Bank 373,Retail,Bengaluru,India,2022-05-23,Neha Gupta
+C0374,HDFC Bank 374,Manufacturing,Pune,India,2024-06-02,Priya Shah
+C0375,Reliance Retail 375,Healthcare,Chennai,India,2023-03-05,Neha Gupta
+C0376,Flipkart 376,Healthcare,Delhi,India,2024-05-09,Rahul Sharma
+C0377,Flipkart 377,Healthcare,Bengaluru,India,2022-11-07,Rahul Sharma
+C0378,ICICI Bank 378,Banking,Chennai,India,2022-06-01,Vivek Singh
+C0379,Zomato 379,Retail,Chennai,India,2021-06-16,Vivek Singh
+C0380,Cipla 380,Retail,Chennai,India,2022-09-28,Neha Gupta
+C0381,Wipro 381,Manufacturing,Delhi,India,2021-06-23,Amit Patel
+C0382,ICICI Bank 382,Banking,Delhi,India,2022-11-04,Priya Shah
+C0383,Cipla 383,Manufacturing,Bengaluru,India,2024-08-16,Neha Gupta
+C0384,ICICI Bank 384,Healthcare,Bengaluru,India,2023-01-13,Amit Patel
+C0385,Wipro 385,Retail,Chennai,India,2023-09-23,Priya Shah
+C0386,HCL 386,Retail,Mumbai,India,2021-06-08,Amit Patel
+C0387,Zomato 387,IT,Pune,India,2024-01-11,Vivek Singh
+C0388,Infosys 388,Healthcare,Ahmedabad,India,2024-06-19,Priya Shah
+C0389,L&T 389,Banking,Mumbai,India,2021-11-29,Priya Shah
+C0390,Zomato 390,Manufacturing,Ahmedabad,India,2021-12-06,Neha Gupta
+C0391,Infosys 391,Banking,Chennai,India,2024-10-17,Priya Shah
+C0392,HDFC Bank 392,Manufacturing,Chennai,India,2023-07-09,Priya Shah
+C0393,ICICI Bank 393,Retail,Chennai,India,2023-08-19,Priya Shah
+C0394,Reliance Retail 394,Manufacturing,Hyderabad,India,2023-08-04,Amit Patel
+C0395,Flipkart 395,Banking,Pune,India,2023-12-17,Neha Gupta
+C0396,Wipro 396,Retail,Ahmedabad,India,2024-05-23,Priya Shah
+C0397,Zomato 397,Healthcare,Bengaluru,India,2024-08-06,Neha Gupta
+C0398,Zomato 398,Healthcare,Pune,India,2021-07-30,Vivek Singh
+C0399,Zomato 399,IT,Chennai,India,2021-06-21,Priya Shah
+C0400,Tech Mahindra 400,Banking,Pune,India,2021-10-29,Neha Gupta
+C0401,TCS 401,Retail,Ahmedabad,India,2023-07-13,Amit Patel
+C0402,Swiggy 402,IT,Hyderabad,India,2021-04-20,Neha Gupta
+C0403,ICICI Bank 403,Healthcare,Mumbai,India,2023-03-02,Rahul Sharma
+C0404,Reliance Retail 404,Retail,Bengaluru,India,2022-10-15,Rahul Sharma
+C0405,Zomato 405,Healthcare,Ahmedabad,India,2021-10-27,Priya Shah
+C0406,Infosys 406,Healthcare,Ahmedabad,India,2023-08-26,Priya Shah
+C0407,Flipkart 407,Banking,Hyderabad,India,2024-06-14,Rahul Sharma
+C0408,Swiggy 408,IT,Bengaluru,India,2022-06-09,Priya Shah
+C0409,Zomato 409,Retail,Pune,India,2025-01-29,Vivek Singh
+C0410,ICICI Bank 410,Banking,Bengaluru,India,2022-08-14,Priya Shah
+C0411,Tech Mahindra 411,IT,Bengaluru,India,2022-05-04,Neha Gupta
+C0412,Cipla 412,Manufacturing,Hyderabad,India,2021-05-09,Rahul Sharma
+C0413,Zomato 413,Banking,Pune,India,2024-01-03,Rahul Sharma
+C0414,Cipla 414,Manufacturing,Pune,India,2022-05-11,Priya Shah
+C0415,Tech Mahindra 415,Banking,Bengaluru,India,2024-06-13,Amit Patel
+C0416,HCL 416,Manufacturing,Hyderabad,India,2022-01-19,Rahul Sharma
+C0417,ICICI Bank 417,Healthcare,Bengaluru,India,2023-12-14,Vivek Singh
+C0418,ICICI Bank 418,Manufacturing,Pune,India,2021-02-11,Neha Gupta
+C0419,Zomato 419,Banking,Bengaluru,India,2024-07-25,Neha Gupta
+C0420,Reliance Retail 420,Healthcare,Delhi,India,2021-02-03,Amit Patel
+C0421,Flipkart 421,IT,Chennai,India,2022-05-09,Rahul Sharma
+C0422,Flipkart 422,Manufacturing,Delhi,India,2022-11-12,Priya Shah
+C0423,Infosys 423,Healthcare,Pune,India,2022-11-25,Priya Shah
+C0424,Zomato 424,Banking,Delhi,India,2023-09-08,Priya Shah
+C0425,Flipkart 425,Retail,Bengaluru,India,2025-01-06,Neha Gupta
+C0426,Infosys 426,Healthcare,Mumbai,India,2021-03-31,Priya Shah
+C0427,Swiggy 427,IT,Chennai,India,2022-09-28,Vivek Singh
+C0428,Apollo Hospitals 428,Manufacturing,Hyderabad,India,2022-06-03,Rahul Sharma
+C0429,Flipkart 429,Retail,Chennai,India,2023-01-02,Rahul Sharma
+C0430,Zomato 430,Healthcare,Chennai,India,2021-09-12,Amit Patel
+C0431,Apollo Hospitals 431,Banking,Delhi,India,2023-06-20,Neha Gupta
+C0432,Reliance Retail 432,Retail,Hyderabad,India,2024-11-18,Neha Gupta
+C0433,Reliance Retail 433,Manufacturing,Chennai,India,2021-06-19,Neha Gupta
+C0434,TCS 434,Banking,Pune,India,2022-01-05,Vivek Singh
+C0435,Tech Mahindra 435,Healthcare,Bengaluru,India,2021-06-13,Amit Patel
+C0436,Cipla 436,Healthcare,Chennai,India,2023-07-03,Vivek Singh
+C0437,Asian Paints 437,Banking,Mumbai,India,2024-11-13,Neha Gupta
+C0438,Reliance Retail 438,Banking,Bengaluru,India,2025-01-28,Amit Patel
+C0439,L&T 439,Banking,Chennai,India,2024-08-02,Rahul Sharma
+C0440,TCS 440,Banking,Chennai,India,2023-11-17,Priya Shah
+C0441,Infosys 441,Retail,Ahmedabad,India,2024-05-29,Neha Gupta
+C0442,Infosys 442,Retail,Bengaluru,India,2022-04-29,Amit Patel
+C0443,Reliance Retail 443,Banking,Pune,India,2021-03-08,Vivek Singh
+C0444,Wipro 444,Banking,Chennai,India,2023-02-01,Neha Gupta
+C0445,Flipkart 445,IT,Pune,India,2021-10-09,Vivek Singh
+C0446,Reliance Retail 446,Banking,Chennai,India,2024-08-23,Amit Patel
+C0447,HCL 447,IT,Bengaluru,India,2022-01-17,Neha Gupta
+C0448,ICICI Bank 448,Banking,Pune,India,2021-08-30,Amit Patel
+C0449,Flipkart 449,Healthcare,Delhi,India,2023-07-03,Priya Shah
+C0450,L&T 450,Healthcare,Delhi,India,2023-10-03,Priya Shah
+C0451,TCS 451,Retail,Ahmedabad,India,2021-06-01,Neha Gupta
+C0452,Wipro 452,Banking,Bengaluru,India,2024-10-28,Amit Patel
+C0453,Cipla 453,Healthcare,Delhi,India,2021-05-13,Vivek Singh
+C0454,ICICI Bank 454,Healthcare,Chennai,India,2021-11-19,Priya Shah
+C0455,Flipkart 455,Healthcare,Pune,India,2022-04-05,Rahul Sharma
+C0456,HCL 456,Retail,Mumbai,India,2023-10-09,Rahul Sharma
+C0457,Reliance Retail 457,Manufacturing,Pune,India,2023-01-26,Neha Gupta
+C0458,Flipkart 458,Manufacturing,Mumbai,India,2024-06-07,Rahul Sharma
+C0459,TCS 459,Healthcare,Hyderabad,India,2025-01-08,Neha Gupta
+C0460,ICICI Bank 460,Banking,Ahmedabad,India,2023-04-19,Vivek Singh
+C0461,TCS 461,Retail,Chennai,India,2024-08-08,Rahul Sharma
+C0462,HDFC Bank 462,Banking,Delhi,India,2023-11-26,Amit Patel
+C0463,Wipro 463,Manufacturing,Delhi,India,2024-04-18,Priya Shah
+C0464,Flipkart 464,Retail,Hyderabad,India,2023-10-27,Rahul Sharma
+C0465,Zomato 465,IT,Pune,India,2021-11-10,Amit Patel
+C0466,Wipro 466,Retail,Chennai,India,2024-12-23,Priya Shah
+C0467,Reliance Retail 467,Manufacturing,Chennai,India,2021-06-11,Amit Patel
+C0468,HCL 468,Manufacturing,Chennai,India,2021-09-14,Amit Patel
+C0469,L&T 469,Manufacturing,Bengaluru,India,2023-10-27,Priya Shah
+C0470,L&T 470,Manufacturing,Mumbai,India,2021-12-17,Vivek Singh
+C0471,Asian Paints 471,Manufacturing,Chennai,India,2024-02-29,Rahul Sharma
+C0472,Zomato 472,IT,Bengaluru,India,2021-04-04,Vivek Singh
+C0473,Tech Mahindra 473,Retail,Ahmedabad,India,2024-03-17,Neha Gupta
+C0474,L&T 474,IT,Hyderabad,India,2024-07-08,Vivek Singh
+C0475,Tech Mahindra 475,Healthcare,Hyderabad,India,2022-05-17,Neha Gupta
+C0476,Tech Mahindra 476,Banking,Bengaluru,India,2024-11-11,Rahul Sharma
+C0477,Wipro 477,Banking,Hyderabad,India,2023-09-19,Neha Gupta
+C0478,HCL 478,Healthcare,Pune,India,2021-10-22,Amit Patel
+C0479,Zomato 479,Healthcare,Delhi,India,2022-12-09,Neha Gupta
+C0480,Wipro 480,Healthcare,Pune,India,2024-02-25,Rahul Sharma
+C0481,Reliance Retail 481,Retail,Hyderabad,India,2021-09-08,Amit Patel
+C0482,HDFC Bank 482,Retail,Mumbai,India,2021-07-18,Rahul Sharma
+C0483,Tech Mahindra 483,Banking,Ahmedabad,India,2024-06-14,Neha Gupta
+C0484,HCL 484,Retail,Ahmedabad,India,2022-11-02,Vivek Singh
+C0485,Asian Paints 485,Healthcare,Mumbai,India,2021-11-23,Neha Gupta
+C0486,ICICI Bank 486,Banking,Hyderabad,India,2022-09-24,Neha Gupta
+C0487,Infosys 487,IT,Hyderabad,India,2023-11-02,Neha Gupta
+C0488,HCL 488,Retail,Pune,India,2022-12-24,Rahul Sharma
+C0489,Infosys 489,Healthcare,Hyderabad,India,2024-05-08,Neha Gupta
+C0490,Tech Mahindra 490,Manufacturing,Bengaluru,India,2021-08-09,Neha Gupta
+C0491,Wipro 491,Healthcare,Delhi,India,2023-01-20,Neha Gupta
+C0492,Reliance Retail 492,IT,Hyderabad,India,2021-04-15,Vivek Singh
+C0493,ICICI Bank 493,Retail,Chennai,India,2024-02-08,Amit Patel
+C0494,TCS 494,Banking,Pune,India,2023-07-12,Vivek Singh
+C0495,Tech Mahindra 495,Manufacturing,Delhi,India,2024-06-05,Rahul Sharma
+C0496,Wipro 496,IT,Hyderabad,India,2023-02-04,Amit Patel
+C0497,ICICI Bank 497,Healthcare,Ahmedabad,India,2021-10-23,Priya Shah
+C0498,L&T 498,Manufacturing,Hyderabad,India,2023-10-22,Rahul Sharma
+C0499,Infosys 499,IT,Mumbai,India,2025-01-01,Amit Patel
+C0500,Flipkart 500,Banking,Pune,India,2023-07-25,Priya Shah

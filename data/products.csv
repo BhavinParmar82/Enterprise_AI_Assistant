@@ -1,0 +1,21 @@
+product_id,product,category,monthly_price
+P001,Product 1,Sales,4658
+P002,Product 2,Sales,1572
+P003,Product 3,HR,4814
+P004,Product 4,Sales,2304
+P005,Product 5,CRM,2609
+P006,Product 6,Sales,4028
+P007,Product 7,HR,3431
+P008,Product 8,HR,3077
+P009,Product 9,Sales,3180
+P010,Product 10,Finance,3902
+P011,Product 11,Sales,2227
+P012,Product 12,Finance,4341
+P013,Product 13,Analytics,2508
+P014,Product 14,HR,3759
+P015,Product 15,Analytics,2706
+P016,Product 16,Sales,2260
+P017,Product 17,Analytics,3444
+P018,Product 18,Finance,2087
+P019,Product 19,Sales,3365
+P020,Product 20,CRM,3954

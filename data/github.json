@@ -1,0 +1,62 @@
+[
+  {
+    "repository": "repo-1",
+    "stars": 29,
+    "open_issues": 12,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-2",
+    "stars": 65,
+    "open_issues": 30,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-3",
+    "stars": 271,
+    "open_issues": 30,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-4",
+    "stars": 248,
+    "open_issues": 16,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-5",
+    "stars": 69,
+    "open_issues": 21,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-6",
+    "stars": 189,
+    "open_issues": 16,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-7",
+    "stars": 232,
+    "open_issues": 21,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-8",
+    "stars": 84,
+    "open_issues": 5,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-9",
+    "stars": 253,
+    "open_issues": 12,
+    "last_commit": "2025-06-20"
+  },
+  {
+    "repository": "repo-10",
+    "stars": 63,
+    "open_issues": 14,
+    "last_commit": "2025-06-20"
+  }
+]
