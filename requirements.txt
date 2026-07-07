@@ -37,3 +37,6 @@ httpx
 
 # Logging
 loguru
+
+# For table like output
+tabulate
